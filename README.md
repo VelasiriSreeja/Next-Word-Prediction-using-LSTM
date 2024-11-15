@@ -7,7 +7,9 @@ To develop an LSTM-based model for predicting the next word in a text corpus.
 ## Problem Statement and Dataset
 The goal is to build a text generation model capable of generating coherent and contextually relevant text, given a starting prompt or seed text.
 ### Dataset
-![alt text](image.png)
+
+![image](https://github.com/user-attachments/assets/f797d4dd-4e58-4868-b899-8735bc3770d6)
+
 ## DESIGN STEPS
 
 ### STEP 1:
